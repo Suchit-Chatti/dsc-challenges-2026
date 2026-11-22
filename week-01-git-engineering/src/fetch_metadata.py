@@ -9,7 +9,7 @@ Instructions for Recruits:
 """
 
 import sys
-import os
+import os 
 import platform
 from datetime import datetime, timezone
 import json
@@ -17,9 +17,9 @@ import json
 # ==============================================================================
 # RECRUIT METADATA (Fill these in with your real details)
 # ==============================================================================
-STUDENT_USN = "01FEXXXXXXXX"        # e.g., "01FE25BCS122"
-STUDENT_NAME = "Your Full Name"     # e.g., "Ajay Mallappa"
-BRANCH = "CSE"                      # e.g., "CSE", "AI/DS", "ECE"
+STUDENT_USN = "01FE25BCI065"        # e.g., "01FE25BCS122"
+STUDENT_NAME = "Suchit Chatti"     # e.g., "Ajay Mallappa"
+BRANCH = "CSAI"                      # e.g., "CSE", "AI/DS", "ECE"
 TRACK = "CREDIT_TRACK_YEAR2"        # "CREDIT_TRACK_YEAR2" or "GROWTH_TRACK_YEAR1"
 
 
